@@ -1,0 +1,68 @@
+body { 
+    background: url("lingon.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  /*div{
+      border-style:solid;
+  }*/
+
+  .container img{
+    flex-shrink: 0;
+    min-width: 100%;
+
+  }
+
+  header{
+      padding-bottom: 10px;
+      padding-top: 10px;
+  }
+
+  img{
+      border-style: solid !important;
+      border-color: rgba(218, 159, 32, 0.4) !important;
+  }
+
+  footer{
+      padding-top: 50px;
+  }
+
+  .ingridients{
+    background-color:rgba(24, 3, 19, 0.8);
+    border-style: solid !important;
+    border-color: rgba(63, 44, 6, 0.4) !important;
+  }
+
+  .steps{
+    background-color:rgba(24, 3, 19, 0.8);
+    border-style: solid !important;
+    border-color: rgba(63, 44, 6, 0.4) !important;
+  }
+
+  h4{
+      margin-top: 30px !important;
+      margin-bottom: 15px !important;
+  }
+
+  .navbar{
+    border-style: solid !important;
+    border-color: rgba(63, 44, 6, 0.4) !important;
+}
+
+#secondarticle{
+    display: none;
+}
+  
+#firstbutton{
+    background-color: gray;
+}
+
+#secondbutton{
+    background-color: white;
+}
+
+
+  
